@@ -1,3 +1,9 @@
+# Landing-Page-React
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/734fa9ed-13b8-4dbb-bf05-57625db2c948/deploy-status)](https://app.netlify.com/sites/landing-page-react-p666r/deploys)
+
+## Link: https://landing-page-react-p666r.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
